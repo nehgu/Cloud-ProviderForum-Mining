@@ -1,2 +1,2 @@
 # Cloud Provider Forum Mining
-![Requirement](../imageslide)
+![Requirement](/imageslide.tiff)
